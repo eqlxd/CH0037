@@ -1,0 +1,10 @@
+C:\Users\ch0037\Documents\Training\CSharp\WindowsFormsApp1_Study\bin\Debug\WindowsFormsApp1_Study.exe.config
+C:\Users\ch0037\Documents\Training\CSharp\WindowsFormsApp1_Study\bin\Debug\WindowsFormsApp1_Study.exe
+C:\Users\ch0037\Documents\Training\CSharp\WindowsFormsApp1_Study\bin\Debug\WindowsFormsApp1_Study.pdb
+C:\Users\ch0037\Documents\Training\CSharp\WindowsFormsApp1_Study\obj\Debug\WindowsFormsApp1_Study.csproj.AssemblyReference.cache
+C:\Users\ch0037\Documents\Training\CSharp\WindowsFormsApp1_Study\obj\Debug\WindowsFormsApp1_Study.Form1.resources
+C:\Users\ch0037\Documents\Training\CSharp\WindowsFormsApp1_Study\obj\Debug\WindowsFormsApp1_Study.Properties.Resources.resources
+C:\Users\ch0037\Documents\Training\CSharp\WindowsFormsApp1_Study\obj\Debug\WindowsFormsApp1_Study.csproj.GenerateResource.cache
+C:\Users\ch0037\Documents\Training\CSharp\WindowsFormsApp1_Study\obj\Debug\WindowsFormsApp1_Study.csproj.CoreCompileInputs.cache
+C:\Users\ch0037\Documents\Training\CSharp\WindowsFormsApp1_Study\obj\Debug\WindowsFormsApp1_Study.exe
+C:\Users\ch0037\Documents\Training\CSharp\WindowsFormsApp1_Study\obj\Debug\WindowsFormsApp1_Study.pdb

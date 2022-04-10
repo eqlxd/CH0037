@@ -1,0 +1,7 @@
+C:\Users\ch0037\Documents\Training\CSharp\Prac_ManualResetEvent\Prac_ManualResetEvent\bin\Debug\Prac_ManualResetEvent.exe.config
+C:\Users\ch0037\Documents\Training\CSharp\Prac_ManualResetEvent\Prac_ManualResetEvent\bin\Debug\Prac_ManualResetEvent.exe
+C:\Users\ch0037\Documents\Training\CSharp\Prac_ManualResetEvent\Prac_ManualResetEvent\bin\Debug\Prac_ManualResetEvent.pdb
+C:\Users\ch0037\Documents\Training\CSharp\Prac_ManualResetEvent\Prac_ManualResetEvent\obj\Debug\Prac_ManualResetEvent.csprojAssemblyReference.cache
+C:\Users\ch0037\Documents\Training\CSharp\Prac_ManualResetEvent\Prac_ManualResetEvent\obj\Debug\Prac_ManualResetEvent.csproj.CoreCompileInputs.cache
+C:\Users\ch0037\Documents\Training\CSharp\Prac_ManualResetEvent\Prac_ManualResetEvent\obj\Debug\Prac_ManualResetEvent.exe
+C:\Users\ch0037\Documents\Training\CSharp\Prac_ManualResetEvent\Prac_ManualResetEvent\obj\Debug\Prac_ManualResetEvent.pdb
