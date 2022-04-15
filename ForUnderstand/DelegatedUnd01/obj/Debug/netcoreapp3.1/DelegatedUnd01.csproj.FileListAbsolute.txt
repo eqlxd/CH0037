@@ -1,0 +1,14 @@
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\DelegatedUnd01\bin\Debug\netcoreapp3.1\DelegatedUnd01.exe
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\DelegatedUnd01\bin\Debug\netcoreapp3.1\DelegatedUnd01.deps.json
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\DelegatedUnd01\bin\Debug\netcoreapp3.1\DelegatedUnd01.runtimeconfig.json
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\DelegatedUnd01\bin\Debug\netcoreapp3.1\DelegatedUnd01.runtimeconfig.dev.json
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\DelegatedUnd01\bin\Debug\netcoreapp3.1\DelegatedUnd01.dll
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\DelegatedUnd01\bin\Debug\netcoreapp3.1\DelegatedUnd01.pdb
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\DelegatedUnd01\obj\Debug\netcoreapp3.1\DelegatedUnd01.csproj.AssemblyReference.cache
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\DelegatedUnd01\obj\Debug\netcoreapp3.1\DelegatedUnd01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\DelegatedUnd01\obj\Debug\netcoreapp3.1\DelegatedUnd01.AssemblyInfoInputs.cache
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\DelegatedUnd01\obj\Debug\netcoreapp3.1\DelegatedUnd01.AssemblyInfo.cs
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\DelegatedUnd01\obj\Debug\netcoreapp3.1\DelegatedUnd01.csproj.CoreCompileInputs.cache
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\DelegatedUnd01\obj\Debug\netcoreapp3.1\DelegatedUnd01.dll
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\DelegatedUnd01\obj\Debug\netcoreapp3.1\DelegatedUnd01.pdb
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\DelegatedUnd01\obj\Debug\netcoreapp3.1\DelegatedUnd01.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\EventAdd\bin\Debug\netcoreapp3.1\EventAdd.exe
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\EventAdd\bin\Debug\netcoreapp3.1\EventAdd.deps.json
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\EventAdd\bin\Debug\netcoreapp3.1\EventAdd.runtimeconfig.json
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\EventAdd\bin\Debug\netcoreapp3.1\EventAdd.runtimeconfig.dev.json
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\EventAdd\bin\Debug\netcoreapp3.1\EventAdd.dll
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\EventAdd\bin\Debug\netcoreapp3.1\EventAdd.pdb
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\EventAdd\obj\Debug\netcoreapp3.1\EventAdd.csproj.AssemblyReference.cache
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\EventAdd\obj\Debug\netcoreapp3.1\EventAdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\EventAdd\obj\Debug\netcoreapp3.1\EventAdd.AssemblyInfoInputs.cache
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\EventAdd\obj\Debug\netcoreapp3.1\EventAdd.AssemblyInfo.cs
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\EventAdd\obj\Debug\netcoreapp3.1\EventAdd.csproj.CoreCompileInputs.cache
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\EventAdd\obj\Debug\netcoreapp3.1\EventAdd.dll
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\EventAdd\obj\Debug\netcoreapp3.1\EventAdd.pdb
+C:\Users\ch0037\Documents\GitHub\CH0037\CSharp\ForUnderstand\EventAdd\obj\Debug\netcoreapp3.1\EventAdd.genruntimeconfig.cache
